@@ -1,0 +1,1 @@
+Your booking has been successfully cancelled!
