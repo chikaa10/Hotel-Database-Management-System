@@ -1,0 +1,1 @@
+Your booking cannot be cancelled!
